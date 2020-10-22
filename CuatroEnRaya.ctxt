@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CuatroEnRaya
+comment0.text=\r\n\ Este\ programa\ presenta\ un\ menu\ mediante\ el\ cual\ hace\ un\ llamado\ al\ juego\ de\ cuatro\ en\ raya.\r\n\ El\ llamado\ a\ los\ juegos\ se\ realizan\ mediante\ los\ metodos\ constructores\ de\ cada\ opcion.\r\n\ \r\n\ @author\ (James\ araya\ Rodr\u00EDguez)\ \r\n\ @version\ (--/10/20)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\nEste\ metodo\ recibe\ un\ un\ numero\ \ para\ ejecutar\ el\ menu\ de\ juego.\r\n\r\nHace\ un\ llamado\ a\ las\ clases\ que\ ejecutan\ el\ juego\r\n\r\n@param\ jugador1\r\n@param\ Ficha1\r\n
+numComments=2

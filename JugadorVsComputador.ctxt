@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JugadorVsComputador
+comment0.text=\r\n\ Este\ programa\ crea\ un\ juego\ de\ cuatro\ en\ raya\ en\ el\ cual\ se\ puede\ jugar\ un\ jugador\ contra\ la\ maquina.\r\n\ \r\n\ @author\ (James\ araya\ Rodr\u00EDguez)\ \r\n\ @version\ (--/10/20)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\nEste\ metodo\ recibe\ un\ nombre\ y\ un\ numero\ \r\npara\ almacenar\ el\ jugador\ y\ la\ posicion\ que\ desea\ jugar\r\n\r\nEjecuta\ el\ juego\r\n\r\n@param\ jugador1\r\n@param\ Ficha1\r\n\ \r\n
+numComments=2
